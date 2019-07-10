@@ -10,4 +10,6 @@ A2P resources and tips for Open Science Hardware
 
 
 # Initiatives
+BFOSH - https://github.com/FOSH-following-demand
+https://github.com/amchagas/Flypi
 https://www.toolfoundry.org/
